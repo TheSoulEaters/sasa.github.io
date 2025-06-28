@@ -55,4 +55,4 @@ async function registerCommands() {
 }
 
 // Jalankan fungsi pendaftaran
-registerCommands();
+registerCommands(); 
